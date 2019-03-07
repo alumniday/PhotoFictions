@@ -2,7 +2,7 @@
 
 **Photo Fictions** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **18** hours spent in total
+Time spent: **23** hours spent in total
 
 ## User Stories
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/rEVDGHA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/qTWA2XQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
